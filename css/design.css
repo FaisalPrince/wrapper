@@ -1,0 +1,49 @@
+.header{
+     height: 150px;
+     background-color: red;
+}
+
+.container{
+
+
+}
+
+.blog{
+	float: left;
+	width: 70%;
+height: 150px;
+background-color: blue;
+
+}
+
+.contact{
+	float: left;
+	width: 30%;
+height: 150px;
+background-color: green;
+
+}
+.item1, .item2, .item3{
+	float: left;
+	width: 33.33%;
+height: 100px;
+}
+
+.item1{
+	background-color: teal;
+}
+.item2{
+	background-color: gray;
+}
+.item3{
+
+	background-color: coral;
+}
+
+
+
+.footer{
+    clear: both;
+	height: 100px;
+	background-color: black;
+}
